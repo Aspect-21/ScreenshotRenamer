@@ -70,7 +70,7 @@ Say goodbye to cluttered folders filled with `CleanShot 2026-04-27 at 16.44.14@2
 Clone the repository and build the app using the included build script:
 
 ```bash
-git clone https://github.com/<your-username>/ScreenshotRenamer.git
+git clone https://github.com/Aspect-21/ScreenshotRenamer.git
 cd ScreenshotRenamer
 
 # Build and package the .app bundle
