@@ -1,0 +1,21 @@
+# Xcode & Swift Package Manager
+.build/
+.swiftpm/
+DerivedData/
+Packages/
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+
+# macOS app bundle artifacts
+ScreenshotRenamer.app/
+*.app
+*.dSYM
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Local logs
+*.log
